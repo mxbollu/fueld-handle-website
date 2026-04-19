@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["8P63P8XQ2E.com.brahman.dharpanaFinance"],
+        "components": [
+          {
+            "/": "/plaid/*",
+            "comment": "Plaid OAuth return path for FuelD"
+          }
+        ]
+      }
+    ]
+  }
+}
